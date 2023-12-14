@@ -1,7 +1,7 @@
 """
 https://leetcode.com/problems/two-sum/description/
-
 """
+
 
 # 1. Brute Force 
 # Time complexity O(n^2)
@@ -12,9 +12,9 @@ class Solution:
             for j in range(i + 1, len(nums)):
                 if nums[j] + nums[i] == target:
                     return [i, j]
-                
 
-nums = [2,7,11,15]
+
+nums = [2, 7, 11, 15]
 target = 9
 output = Solution()
 print(output.twoSum(nums, target))
