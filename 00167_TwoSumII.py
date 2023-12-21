@@ -17,7 +17,7 @@ class Solution:
                 idx_start += 1
             else:
                 idx_end -= 1
-                
+        return None
         # # 2. Dictionary
         # # Time complexity O(n)
         # # Space complexity O(n)
