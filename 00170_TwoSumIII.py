@@ -78,7 +78,6 @@ class TwoSum:
 #                     return True
 #             elif self.num_counts[num] > 1:
 #                 return True
-        
 #         return False
 
 # Your TwoSum object will be instantiated and called as such:
