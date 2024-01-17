@@ -5,7 +5,7 @@ https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&
 
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
-        i, j= 0, 0
+        i, j = 0, 0
         res = False
         if len(s) > 0:
             while j < len(t) and i < len(s):
