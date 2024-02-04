@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+-- Write your MySQL query statement below
 
 -- # Use Join: Slower
 -- SELECT e1.name AS Employee

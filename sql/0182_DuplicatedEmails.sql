@@ -1,5 +1,5 @@
-# Write your MySQL query statement below
-# Use Having: Slower
+-- Write your MySQL query statement below
+-- Use Having: Slower
 -- SELECT email AS Email
 -- FROM Person
 -- GROUP BY email
