@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+-- # Write your MySQL query statement below
 SELECT e.id, e.month,
     SUM(e2.Salary) as Salary
 FROM Employee e
